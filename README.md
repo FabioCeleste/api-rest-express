@@ -1,2 +1,3 @@
 # api-rest-express
-Api rest with express and users 
+
+This is an api rest structure with user registration and authentication ready, using SQL database, the password already has the hash
